@@ -107,7 +107,7 @@ function Dataviz() {
         <header className="">
         
         </header>
-        <div className='grid grid-cols-1 sm:grid-cols-2 bg-[#1f1d1e]'>
+        <div className=''>
         <div className='flex flex-col items-center h-auto bg-[#1f1d1e] text-white text-pretty pb-6'>
         <h1 className="text-xl font-semibold text-center px-4  text-white pt-6 ">This is a prototype tool which allows you to visualise a specific data structure in your browser. <br></br><br></br>You can read the full context of our work and where this prototype came from on our Notion site <a href='https://dataforaction.notion.site/Prototyping-insight-infrastructure-for-the-charity-sector-b53e4b066c2440f6b91f1ad0f334fc8c' title="Data For Action Charity Data Works Project" className="text-pink-500 font-bold" rel="noreferrer" target="_blank">here.</a> </h1>
         <h1 className="text-xl font-semibold text-center px-4  text-white pt-6 ">You can then choose to contribute this data to a wider database and see all the aggregated data visualised for you</h1>
